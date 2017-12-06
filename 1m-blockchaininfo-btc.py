@@ -3,7 +3,7 @@
 
 # <bitbar.title>Blockchain.info BTC-EUR Portfolio Tracker</bitbar.title>
 # <bitbar.version>v1.0</bitbar.version>
-# <bitbar.author>Christian M. Blesing</bitbar.author>
+# <bitbar.author>Christian M. Blessing</bitbar.author>
 # <bitbar.author.github>picturaluce</bitbar.author.github>
 # <bitbar.desc>Show BTC-EUR + your portfolio value.</bitbar.desc>
 # <bitbar.dependencies>python</bitbar.dependencies>
@@ -14,7 +14,7 @@ import json
 import urllib2
 
 # BTC Portfolio amount goes here:
-portfolio = 0.07953116
+portfolio = 1.0
 
 # Set currency here: 
 # (USD, AUD, BRL, CAD, CHF, CLP, CNY, DKK, EUR, GBP, HKD, INR, ISK, JPY, KRW, NZD, RUB, SEK, SGD, THB, TWD):
